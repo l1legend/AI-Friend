@@ -17,7 +17,6 @@ API_KEY ="<your_key_here>"
 
 ## Usage
 In the project directory, open two terminals.
-
 In the first terminal enter the command:
 ### `npm start:frontend`
 
