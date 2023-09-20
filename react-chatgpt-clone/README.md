@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Getting Started with AI Friend.
+Open the project with VSCode.
+In the root directory create a file called .env
+![image](https://github.com/l1legend/AI-Friend/assets/28288764/40fab7e3-4d73-4794-b3e9-601f9bc1f684)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+
+## Usuage
 
 In the project directory, you can run:
 
