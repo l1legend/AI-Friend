@@ -2,8 +2,6 @@
 Open the project with VSCode.
 In the root directory create a file called .env
 
-![image](https://github.com/l1legend/AI-Friend/assets/28288764/40fab7e3-4d73-4794-b3e9-601f9bc1f684)
-
 Go to the following link:
 https://platform.openai.com/account/api-keys
 Here is where you generate your OpenAI API keys.
@@ -15,8 +13,7 @@ API_KEY ="<your_key_here>"
 
 
 ## Usage
-In the project directory, open two terminals like so:
-![141](https://github.com/l1legend/AI-Friend/assets/28288764/07472c9d-522c-4a41-88f0-4e0db2cd1bb5)
+In the project directory, open two terminals.
 
 In the first terminal enter the command:
 ### `npm start:frontend`
