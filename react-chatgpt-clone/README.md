@@ -16,8 +16,10 @@ API_KEY =""
 
 ## Usage
 
+![141](https://github.com/l1legend/AI-Friend/assets/28288764/07472c9d-522c-4a41-88f0-4e0db2cd1bb5)
+
 In the project directory, open two terminals like so:
-![image](https://github.com/l1legend/AI-Friend/assets/28288764/93abcdef-4cdc-4f7d-9f45-d9273eda050a)
+
 
 
 
