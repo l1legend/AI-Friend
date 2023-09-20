@@ -9,6 +9,7 @@ You need to have some credits available so go to you the Billing tab and fund yo
 Click the API keys tab on the left, then click "Create new secret key". Copy the API and paste it in notepad. 
 
 Back in VSCode inside the .env file add your API key. (Add your key between the double quotes".)
+
 API_KEY ="<your_key_here>"
 
 
